@@ -39,5 +39,6 @@ namespace UnitTestForTriangleSquareCalculator
             Assert.AreEqual(XTriangleSquareCalculator.TriangleSqureCalculate(12, 13, 5), 30);
         }
 
+
     }
 }

@@ -32,5 +32,9 @@ namespace XCompanyLib
             return cathetusA * cathetusB / 2;                    
         }
 
+        public override string ToString()
+        {
+            return "A`m Triangle!";
+        }
     }
 }
