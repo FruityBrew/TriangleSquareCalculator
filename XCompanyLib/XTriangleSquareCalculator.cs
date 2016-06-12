@@ -36,5 +36,10 @@ namespace XCompanyLib
         {
             return "A`m Triangle!";
         }
+
+        public void F()
+        {
+
+        }
     }
 }
